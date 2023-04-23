@@ -16,8 +16,6 @@ book
 library
 - collection of all books: list<int>/dict<int>
 - active book: int
-
-check whether core objects cover all the requirements.
 '''
 
 class Book:
